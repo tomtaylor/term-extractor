@@ -8,7 +8,7 @@ Extract terms from text using a selection of web based parsers.
 
 == FEATURES/PROBLEMS:
 
-* Just support the Yahoo Term Extractor API at the moment. More soon.
+* Just supports the Yahoo Term Extractor API at the moment. More soon.
 
 == SYNOPSIS:
 

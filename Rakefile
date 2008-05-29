@@ -14,6 +14,7 @@ PROJ.authors = 'Tom Taylor'
 PROJ.email = 'tom@headshift.com'
 PROJ.url = 'http://www.example.com'
 PROJ.rubyforge.name = 'termextractor'
+PROJ.version = "1.0.0"
 
 PROJ.spec.opts << '--color'
 
