@@ -18,7 +18,6 @@ PROJ.version = TermExtractor::VERSION
 
 PROJ.spec.opts << '--color'
 
-depend_on 'net/http'
 depend_on 'hpricot'
 
 # EOF
