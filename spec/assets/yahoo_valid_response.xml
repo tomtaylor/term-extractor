@@ -1,0 +1,5 @@
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:cate" xsi:schemaLocation="urn:yahoo:cate http://search.yahooapis.com/ContentAnalysisService/V1/TermExtractionResponse.xsd">
+  <Result>english</Result>
+  <Result>waffles</Result>
+  <Result>stuff like that</Result>
+</ResultSet>
