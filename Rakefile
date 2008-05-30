@@ -9,10 +9,10 @@ require 'term_extractor'
 
 task :default => 'spec:run'
 
-PROJ.name = 'term_extractor'
+PROJ.name = 'term-extractor'
 PROJ.authors = 'Tom Taylor'
 PROJ.email = 'tom@headshift.com'
-PROJ.url = 'http://www.example.com'
+PROJ.url = 'http://termextractor.rubyforge.org'
 PROJ.rubyforge.name = 'termextractor'
 PROJ.version = TermExtractor::VERSION
 
